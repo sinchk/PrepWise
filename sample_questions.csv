@@ -1,0 +1,21 @@
+question_id,topic,difficulty,text,hint,answer,type
+q1,fractions,1,"What is 1/2 + 1/3?","Draw pie charts to visualize the fractions","5/6",fraction
+q2,fractions,2,"Add 3/4 + 1/8","Convert to common denominator first","7/8",fraction
+q3,algebra,2,"Solve 2x + 3 = 11","Subtract 3 from both sides, then divide by 2","4",numeric
+q4,algebra,3,"Solve x² - 5x + 6 = 0","Try factoring or use the quadratic formula","x=2 or x=3",text
+q5,geometry,1,"Find the area of a rectangle with length 5 and width 3","Area = length × width","15",numeric
+q6,geometry,2,"What is the circumference of a circle with radius 4?","Use the formula C = 2πr","8π",text
+q7,fractions,1,"What is 3/4 - 1/4?","When denominators are the same, subtract numerators","1/2",fraction
+q8,algebra,1,"Solve x + 7 = 12","Subtract 7 from both sides","5",numeric
+q9,geometry,3,"Find the volume of a cylinder with radius 3 and height 8","Use V = πr²h","72π",text
+q10,fractions,3,"Multiply 2 1/3 × 1 1/2","Convert mixed numbers to improper fractions first","3 1/2",fraction
+q11,algebra,2,"Simplify 3x + 2x - x","Combine like terms","4x",text
+q12,geometry,2,"Find the area of a triangle with base 6 and height 4","Use A = (1/2) × base × height","12",numeric
+q13,arithmetic,1,"What is 15 × 8?","Break it down: 15 × 8 = 10 × 8 + 5 × 8","120",numeric
+q14,arithmetic,2,"Calculate 144 ÷ 12","Think about what number times 12 equals 144","12",numeric
+q15,fractions,2,"Convert 0.75 to a fraction","Think about 75/100 and simplify","3/4",fraction
+q16,algebra,4,"Solve the system: x + y = 10, x - y = 2","Try substitution or elimination method","x=6, y=4",text
+q17,geometry,4,"Find the surface area of a cube with side length 5","A cube has 6 faces, each with area s²","150",numeric
+q18,arithmetic,3,"What is 25% of 80?","25% = 1/4, so find 1/4 of 80","20",numeric
+q19,fractions,4,"Divide 2/3 ÷ 1/4","To divide fractions, multiply by the reciprocal","8/3",fraction
+q20,algebra,5,"Solve log₂(x) + log₂(x-3) = 2","Use logarithm properties to combine terms","x=4",numeric

@@ -1,0 +1,26 @@
+{
+  "s10": {
+    "accuracy": 1.0,
+    "pace": 12.59,
+    "engagement": 1.0,
+    "topic_mastery": {
+      "arithmetic": 0.728,
+      "fractions": 0.719,
+      "geometry": 0.729
+    },
+    "quiz_count": 1,
+    "last_updated": "2025-12-30T23:24:20.202307"
+  },
+  "s1": {
+    "accuracy": 0.4,
+    "pace": 5.5,
+    "engagement": 0.8,
+    "topic_mastery": {
+      "algebra": 0.401,
+      "arithmetic": 0.742,
+      "fractions": 0.245
+    },
+    "quiz_count": 1,
+    "last_updated": "2025-12-30T23:33:14.988817"
+  }
+}
