@@ -73,9 +73,9 @@ $$\text{Hybrid Score} = (0.4 \times \text{ML Prediction}) + (0.3 \times \text{Co
 ---
 
 ## ⚖️ **Ethical Considerations**
-[cite_start]The project explicitly addresses **Responsible AI**[cite: 1475]:
-* [cite_start]**Bias Mitigation:** Prevents "Performance Bias" by capping loads for struggling students to avoid overwhelming them [cite: 1482-1484].
-* [cite_start]**Transparency:** All recommendations are explainable based on clear metrics (urgency, difficulty), ensuring the student understands *why* a subject is prioritized [cite: 1506-1509].
+The project explicitly addresses **Responsible AI**:
+* **Bias Mitigation:** Prevents "Performance Bias" by capping loads for struggling students to avoid overwhelming them [cite: 1482-1484].
+* **Transparency:** All recommendations are explainable based on clear metrics (urgency, difficulty), ensuring the student understands *why* a subject is prioritized.
 
 ---
 
