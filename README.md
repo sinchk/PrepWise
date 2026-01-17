@@ -5,7 +5,7 @@
 ## 📖 **Project Overview**
 **PrepWise** is an intelligent, data-driven study scheduling system designed to solve the problem of inefficient academic planning. Unlike generic timetables, this system utilizes a **Hybrid Recommendation Engine** and **Machine Learning Regression** to generate adaptive study plans tailored to a student's learning pace, current stress levels, and exam deadlines .
 
-[cite_start]The system addresses core student challenges such as poor time management, lack of prioritization, and academic burnout by dynamically allocating study hours where they are most needed.
+The system addresses core student challenges such as poor time management, lack of prioritization, and academic burnout by dynamically allocating study hours where they are most needed.
 
 ---
 
